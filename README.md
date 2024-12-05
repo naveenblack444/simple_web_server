@@ -83,6 +83,8 @@ Testing the webserver.
 
 
 # OUTPUT:
+![Screenshot 2024-12-05 140442](https://github.com/user-attachments/assets/a4ce8d1b-546f-4b49-913b-d53e2105fbaa)
+
 ![alt text](<Screenshot (13).png>)
 # RESULT:
 The program for implementing simple webserver is executed successfully.
